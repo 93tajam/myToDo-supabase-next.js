@@ -10,8 +10,6 @@ React、TypeScript、DB、認証を理解することが目的。
 
 土日や授業中を使ってちょいちょい進める。
 
----
-
 ## 使用技術
 
 - Next.js
@@ -51,20 +49,9 @@ React、TypeScript、DB、認証を理解することが目的。
 - Tailwind CSS
     ユーティリティファーストなCSSフレームワーク。クラス名を組み合わせて効率よくスタイリングできる。
 
-Next.js（フロント）
-    ↓
-Supabase（サービス）
-    ↓
-PostgreSQL（DB）
-    ↑
-SQL（DB操作言語）
-
----
-
 ## 学習メモ
 
 ### Next.js
-
 
 
 ### React
@@ -76,10 +63,7 @@ SQL（DB操作言語）
 ### Supabase
 
 
----
-
 ## ディレクトリ構成メモ
 
----
 
 ## 詰まったこと
