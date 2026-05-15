@@ -42,6 +42,15 @@ React、TypeScript、DB、認証を理解することが目的。
     JavaScriptに型を追加した言語。
     データ構造や関数の引数を明確にして、バグを減らす。
 
+    ということで、基本はtypescriptで書くけどreact使うためにreact特有のUI記法も使うし、Next.jsの書き方も混在してる。
+
+    export default function Page() {
+        return <h1>Hello</h1>
+    }
+
+    Page関数はタイプスクリプトとかのやつだし、h1とかHTMLっぽいのはreact。みたいな。
+
+
 - **Supabase**  
 
     PostgreSQLベースのBaaS、Backend as a Service。

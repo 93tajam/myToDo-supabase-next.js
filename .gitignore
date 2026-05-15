@@ -1,0 +1,9 @@
+.env.local
+#環境変数。言わずもがなむし。
+
+node_modules/
+#ここにNext.jsやReactみたいなライブラリが入る。
+#gitにあげるのは無駄なので、package.jsonでライブラリのリスト作って、勝手にnpm ci(npm install)すればみんなの環境が合う。
+
+.next/
+#.nextはキャッシュだから重いから無視。
