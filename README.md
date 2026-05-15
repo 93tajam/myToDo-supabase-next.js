@@ -19,7 +19,7 @@ React、TypeScript、DB、認証を理解することが目的。
 - Tailwind CSS(使うかわからん)
 - GitHub
 
-### それぞれの技術の説明
+## それぞれの技術の説明
 
 - Next.js
     Reactを使ってアプリを作るためのフレームワーク。
