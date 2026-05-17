@@ -29,6 +29,7 @@ React、TypeScript、DB、認証を理解することが目的。
     https://qiita.com/tomy0610/items/f07d586c08a0a2aadb01
     
     どうやらやっぱり初心者用ではないがAI関連ツールが多いから使う必要ある。
+    どこでどの情報が漏洩するのか分かりにくい。
 
 - **React**
 
