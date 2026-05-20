@@ -16,6 +16,7 @@ import "./globals.css"
 
 export const metadata: Metadata = {
   title: 'My_ToDo_App',
+  //constは変数を宣言。
 }
 
 export default function RootLayout({
